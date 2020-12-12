@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lineacar</string>
+    <string name="appTitre"><![CDATA[Lin&aCar]]></string>
+    <string name="labelSwitchConnect">Connexion </string>
+    <string name="labelSwitchDisconnect">Deconnexion</string>
+    <string name="connection_state_disconnected">Deconnecté</string>
+    <string name="connection_state_en_cours_de_connection">En cours de connexion à %s</string>
+    <string name="connection_state_connected">Connecté à %s</string>
+    <string name="connection_state_en_cours_de_deconnection">En cours de déconnexion</string>
+    <string name="bt_up">BlueTooth actif</string>
+    <string name="bt_down">BlueTooth désactivé</string>
+    <string name="bluetooth_settings">BlueTooth Settings</string>
+    <string name="bt_state">BT state</string>
+    <string name="bt_connexion_state">Connexion state</string>
+    <string name="connect">Connect</string>
+    <string name="back_to_main">Back to remote control</string>
+    <string name="paired_device">Paired device :</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="GiveUp">Abandon</string>
+    <string name="mac_adress">MAC Address</string>
+    <string name="unable_to_connect_to">Unable to connect to %s</string>
+    <string name="bluetooth_disable_bye">Bluetooth disabled. Bye !</string>
+    <string name="message_up">U</string>
+    <string name="message_down">D</string>
+    <string name="message_right">R</string>
+    <string name="message_left">L</string>
+    <string name="message_stop">S</string>
+    <string name="welcomeInitBtProtocol">Welcome Lineacar</string>
+    <string name="test">Test</string>
+</resources>

@@ -1,0 +1,4 @@
+#Thu Jun 27 12:21:25 CEST 2019
+base.0=/home/sylvain/AndroidStudioProjects/Lineacar/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

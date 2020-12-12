@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74ad2b289abd68f3c30e86021556b010/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/97353d98fa5cee3fb5bb8fb77bee8ffa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sylvain/.gradle/caches/transforms-2/files-2.1/7a08bc56d2709660bd84a9b699d12c4e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6de95afcbbd524b970d2decbe10b92f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b9304c3caa2e1b2b448abe31ba893751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/49df0687f0dc79a9f8a198b09490b950/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ee4c8ba01f365cc4ad59a35254b0a12d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/997f83705da4b4ea1dcd000b8e86ac14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/32c7428e3eeed02c6a178ed79f66bf12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f6dd2f939d8c78b84b46773bafa8c1b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b3d8b4eff01c48275b2a98e28a7699d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/bbe0b15dafb66fd7e55c87bd7af5e26d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/89de55a196ec97070717be130fc41055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/a2d47d93bae3f72c9175b8f7324de158/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/8ff6032b985e184af4d0cd7a2a7c3d9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6ba32d8e596b736dd2501e98d5828a2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/eb20f95091092ed3d51485a456755c77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74a0b2cac79c5823b3f27d1da67a59cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/5375949eb532e92fbf5b37672fe2ee59/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/80ebea6cd179eb9075105f7e7323eabc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/44044da6257ec9b4926383ca3d02bd07/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/96e6a2a3f470552777c4469d5b8465e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6561732aa303deb896776a9c0fa4b5f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ae6d7ab2973ce5f57d4dab5f4d37b5b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/d41131b2729fd05bd3e36d785e49edf3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56f564e5d6be3e7497e52de8ed89e543/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/68f48f2128d449c1f2bb6ac8577685b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f220ecce676168c1814b324f6b34871e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/02e7517ba2328ed291121736e6c1b41a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/4a2c3c8e0a9e01a1dea25edfede085cd/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:6:22-71
+application
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:design:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74ad2b289abd68f3c30e86021556b010/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74ad2b289abd68f3c30e86021556b010/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sylvain/.gradle/caches/transforms-2/files-2.1/7a08bc56d2709660bd84a9b699d12c4e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sylvain/.gradle/caches/transforms-2/files-2.1/7a08bc56d2709660bd84a9b699d12c4e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/5375949eb532e92fbf5b37672fe2ee59/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/5375949eb532e92fbf5b37672fe2ee59/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.lineac.lineacar.BtDeviceSelectActivity
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:15:19-57
+activity#com.lineac.lineacar.MainActivity
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:17:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:18:25-66
+action#android.intent.action.VIEW
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74ad2b289abd68f3c30e86021556b010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74ad2b289abd68f3c30e86021556b010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/97353d98fa5cee3fb5bb8fb77bee8ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/97353d98fa5cee3fb5bb8fb77bee8ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sylvain/.gradle/caches/transforms-2/files-2.1/7a08bc56d2709660bd84a9b699d12c4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sylvain/.gradle/caches/transforms-2/files-2.1/7a08bc56d2709660bd84a9b699d12c4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6de95afcbbd524b970d2decbe10b92f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6de95afcbbd524b970d2decbe10b92f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b9304c3caa2e1b2b448abe31ba893751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b9304c3caa2e1b2b448abe31ba893751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/49df0687f0dc79a9f8a198b09490b950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/49df0687f0dc79a9f8a198b09490b950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ee4c8ba01f365cc4ad59a35254b0a12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ee4c8ba01f365cc4ad59a35254b0a12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/997f83705da4b4ea1dcd000b8e86ac14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/997f83705da4b4ea1dcd000b8e86ac14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/32c7428e3eeed02c6a178ed79f66bf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/32c7428e3eeed02c6a178ed79f66bf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f6dd2f939d8c78b84b46773bafa8c1b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f6dd2f939d8c78b84b46773bafa8c1b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b3d8b4eff01c48275b2a98e28a7699d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/b3d8b4eff01c48275b2a98e28a7699d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/bbe0b15dafb66fd7e55c87bd7af5e26d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/bbe0b15dafb66fd7e55c87bd7af5e26d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/89de55a196ec97070717be130fc41055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/89de55a196ec97070717be130fc41055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/a2d47d93bae3f72c9175b8f7324de158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/a2d47d93bae3f72c9175b8f7324de158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/8ff6032b985e184af4d0cd7a2a7c3d9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/8ff6032b985e184af4d0cd7a2a7c3d9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6ba32d8e596b736dd2501e98d5828a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6ba32d8e596b736dd2501e98d5828a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/eb20f95091092ed3d51485a456755c77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/eb20f95091092ed3d51485a456755c77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74a0b2cac79c5823b3f27d1da67a59cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/74a0b2cac79c5823b3f27d1da67a59cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56bd6a25a7f269415154b084b1e89c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/5375949eb532e92fbf5b37672fe2ee59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/5375949eb532e92fbf5b37672fe2ee59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/80ebea6cd179eb9075105f7e7323eabc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/80ebea6cd179eb9075105f7e7323eabc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/44044da6257ec9b4926383ca3d02bd07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/44044da6257ec9b4926383ca3d02bd07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/96e6a2a3f470552777c4469d5b8465e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/96e6a2a3f470552777c4469d5b8465e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6561732aa303deb896776a9c0fa4b5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/6561732aa303deb896776a9c0fa4b5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ae6d7ab2973ce5f57d4dab5f4d37b5b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/ae6d7ab2973ce5f57d4dab5f4d37b5b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/d41131b2729fd05bd3e36d785e49edf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/d41131b2729fd05bd3e36d785e49edf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56f564e5d6be3e7497e52de8ed89e543/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/56f564e5d6be3e7497e52de8ed89e543/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/68f48f2128d449c1f2bb6ac8577685b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvain/.gradle/caches/transforms-2/files-2.1/68f48f2128d449c1f2bb6ac8577685b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f220ecce676168c1814b324f6b34871e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/f220ecce676168c1814b324f6b34871e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/02e7517ba2328ed291121736e6c1b41a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/02e7517ba2328ed291121736e6c1b41a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/4a2c3c8e0a9e01a1dea25edfede085cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvain/.gradle/caches/transforms-2/files-2.1/4a2c3c8e0a9e01a1dea25edfede085cd/AndroidManifest.xml:20:5-44
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sylvain/AndroidStudioProjects/Lineacar/app/src/main/AndroidManifest.xml
